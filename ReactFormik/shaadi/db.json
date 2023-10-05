@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "username": "aravindmekala@gmail.com", "password": "143@aravind" },
+      { "id": 2, "username": "prashanth000@gmail.com", "password": "Loveboy@434" },
+      { "id": 3, "username": "charankadapa@gmail.com", "password": "kadapa@143" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode" }
+  }
